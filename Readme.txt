@@ -1,0 +1,2 @@
+hello guys,this our mechine learning project for Credit card fraud detection.I had import credictcard fraud dataset from
+kaggle website.In this project i had use linearsupportvector classifier model it gives a 99% accuracy  
